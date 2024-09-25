@@ -1,0 +1,11 @@
+-main.py
+-config.json
+-class Devices(mosteniri->)
+            -__init__.py
+            -devices.py
+            -router.py
+            -switch.py
+-ssh_manager.py
+-configuration.py
+-utilis.py(decoratorii)
+-README.md
